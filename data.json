@@ -1,0 +1,386 @@
+{
+  "category": "123123",
+  "description": "Presente nas principais cidades do Brasil, adotando um modelo de neg\u00f3cio inovador. Hoje s\u00e3o mais de 60 lojas em 12 estados brasileiros e milhares de #Croalovers apaixonados pela marca!",
+  "item_categories": [
+    {
+      "itens": [
+        {
+          "description": "Iscas de Fil\u00e9 Mignon com Molho de Cinco-Queijos, Batata R\u00fastica McCain (assada) e Arroz Branco. ACOMPANHA SALADA.",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804020915_43112958.png",
+          "name": "Fil\u00e9 ao Molho de Queijos com Batata R\u00fastica + Refrigerante 330ml",
+          "price": "R$ 24,90"
+        },
+        {
+          "description": "200g Spaghetti Grano Duro, Creme de Leite, Requeij\u00e3o e Bacon. ACOMPANHA SALADA.",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804020917_43112981.jpg",
+          "name": "Spaghetti ao Molho Branco e Bacon + Refrigerante 330ml",
+          "price": "R$ 20,40"
+        }
+      ],
+      "name": "PROMO\u00c7\u00d5ES"
+    },
+    {
+      "itens": [
+        {
+          "description": "Br\u00f3colis, Requeij\u00e3o, toque de Noz Moscada e Queijo Mussarela",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201246_38776036.jpg",
+          "name": "Br\u00f3colis, Requeij\u00e3o e Mussarela",
+          "price": "R$ 13,85"
+        },
+        {
+          "description": "Carne de Panela desfiada e Queijo Mussarela",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201240_38776058.png",
+          "name": "Carne de Panela",
+          "price": "R$ 13,95"
+        },
+        {
+          "description": "Assado de Vazio/Fraldinha com Cebola, Provolone e Mussarela",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201241_38776069.png",
+          "name": "Churrasco",
+          "price": "R$ 15,35"
+        },
+        {
+          "description": "Estrogonofe de Carne e Champignon",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201247_38776080.jpg",
+          "name": "Estrogonofe de Carne",
+          "price": "R$ 13,95"
+        },
+        {
+          "description": "Iscas de Fil\u00e9 com Queijos Mussarela, Prato, Provolone, Gorgonzola e Parmes\u00e3o",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201803221530_38776091.jpg",
+          "name": "Fil\u00e9 Cinco Queijos",
+          "price": "R$ 16,25"
+        },
+        {
+          "description": "Iscas de Fil\u00e9 e Queijo Cheddar",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201803221531_38776102.jpg",
+          "name": "Fil\u00e9 com Cheddar",
+          "price": "R$ 16,25"
+        },
+        {
+          "description": "Iscas de Fil\u00e9, Requeij\u00e3o e Queijo Mussarela",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201803221531_38776113.jpg",
+          "name": "Fil\u00e9 com Requeij\u00e3o e Mussarela",
+          "price": "R$ 16,25"
+        },
+        {
+          "description": "(Peito de Frango em cubos, Palmito e Rucula com Queijos Mussarela, Prato, Provolone, Gorgonzola e Parmes\u00e3o)",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201249_38776124.jpg",
+          "name": "Frango com 5 Queijos",
+          "price": "R$ 13,95"
+        },
+        {
+          "description": "Peito de Frango em cubos de frango, Cream Cheese, Bacon, Alface e Tomate",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201250_38776135.jpg",
+          "name": "Frango com Cream Cheese e Bacon",
+          "price": "R$ 14,35"
+        },
+        {
+          "description": "Peito de Frango Desfiado, Molho de Tomate e Queijo Cremoso",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201251_38776146.jpg",
+          "name": "Frango com Queijo Cremoso",
+          "price": "R$ 13,75"
+        },
+        {
+          "description": "Peito de Peru, Requeij\u00e3o e Queijo Mussarela",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201252_38776157.jpg",
+          "name": "Peito de Peru com Requeij\u00e3o e Mussarela",
+          "price": "R$ 14,35"
+        },
+        {
+          "description": "Presunto, Queijo Mussarela, Cebola, Tomate, Azeitona e Or\u00e9gano",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201254_38776168.jpg",
+          "name": "Portuguesa",
+          "price": "R$ 14,25"
+        },
+        {
+          "description": "Presunto e Queijo Mussarela",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201802201359_38776179.jpg",
+          "name": "Presunto e Queijo",
+          "price": "R$ 12,95"
+        },
+        {
+          "description": "Tomate Seco, Queijo Mussarela, R\u00facula e Or\u00e9gano",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201301_38776212.jpg",
+          "name": "Tomate Seco, Mussarela e R\u00facula",
+          "price": "R$ 13,85"
+        },
+        {
+          "description": "(molho BBQ, hamb\u00farguer de carne, queijo cheddar, an\u00e9is de cebola, bacon, tomate, alface americana e batata chips)",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201803191408_42588893.jpg",
+          "name": "Croaburger Barbecue",
+          "price": "R$ 17,90"
+        },
+        {
+          "description": "(molho parmes\u00e3o, hamb\u00farguer de carne, queijo cheddar, tomate, alface americana e batata chips)",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201803191410_42588487.jpg",
+          "name": "Croaburger Classico",
+          "price": "R$ 15,90"
+        }
+      ],
+      "name": "CROASONHOS SALGADOS"
+    },
+    {
+      "itens": [
+        {
+          "description": "Alface Americana, Tomate Cereja, Iscas de Fil\u00e9 Mignon, Queijo Mussarela, Doritos e um toque de Pimenta",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201303_38776234.jpg",
+          "name": "Salada Mexicana",
+          "price": "R$ 21,85"
+        },
+        {
+          "description": "Mix de Alfaces, Queijo Parmes\u00e3o, Croutons e Iscas de Fil\u00e9",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201803221532_38776256.jpg",
+          "name": "Salada Caesar Fil\u00e9",
+          "price": "R$ 21,85"
+        },
+        {
+          "description": "Mix de Alfaces, Queijo Parmes\u00e3o, Croutons e Peito de Frango em cubos",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201304_38776248.jpg",
+          "name": "Salada Caesar Frango",
+          "price": "R$ 19,75"
+        },
+        {
+          "description": "(Mix de Alfaces, Peito de Frango em cubos com Linha\u00e7a, Abobrinha temperada e Tomate Cereja)",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201304_39070121.jpg",
+          "name": "Salada de Frango com Linha\u00e7a e Abobrinha",
+          "price": "R$ 19,35"
+        },
+        {
+          "description": "Mix de Folhas Verdes, Peito de Frango desfiado, Cream Cheese, Palmito, Croutons e um toque de Tomate Seco",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201305_38776241.jpg",
+          "name": "Salada de Frango com Cream Cheese",
+          "price": "R$ 19,95"
+        },
+        {
+          "description": "Mix de Alfaces, Peito de Peru, Nozes, Mussarela, Palmito e Tomate Cereja",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201306_38776264.jpg",
+          "name": "Salada Peito de Peru com Nozes",
+          "price": "R$ 19,95"
+        }
+      ],
+      "name": "SALADAS"
+    },
+    {
+      "itens": [
+        {
+          "description": "Cubos de Carne, Molho Vermelho, Champignon, Creme de Leite, Batata Palha e Arroz Branco. ACOMPANHA SALADA.",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804011807_42296904.jpg",
+          "name": "Prato Estrogonofe de Carne",
+          "price": "R$ 21,95"
+        },
+        {
+          "description": "Peito de Frango em cubos ao Molho de 5 Queijos, Pur\u00ea de Batata e Abobrinha Temperada. ACOMPANHA SALADA.",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804011806_42296906.jpg",
+          "name": "Frango ao Molho de 5 Queijos com Pur\u00ea de Batata",
+          "price": "R$ 19,45"
+        },
+        {
+          "description": "Iscas de Fil\u00e9 Mignon com Molho de Cinco-Queijos, Batata R\u00fastica McCain (assada) e Arroz Branco. ACOMPANHA SALADA.",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804011808_42296911.png",
+          "name": "Fil\u00e9 ao Molho de Queijos com Batata R\u00fastica",
+          "price": "R$ 24,95"
+        },
+        {
+          "description": "200g Spaghetti Grano Duro, Creme de Leite, Requeij\u00e3o e Bacon. ACOMPANHA SALADA.",
+          "image_url": null,
+          "name": "Spaghetti ao Molho Branco e Bacon",
+          "price": "R$ 18,95"
+        },
+        {
+          "description": "200g Sphagetti Grano Duro e Molho de Tomate Seco e Rucula. ACOMPANHA SALADA.",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804011809_42296922.jpg",
+          "name": "Spaghetti ao Molho de Tomate Seco e R\u00facula",
+          "price": "R$ 18,55"
+        },
+        {
+          "description": "(Arroz Cremoso com Requeij\u00e3o e Creme de Leite, Peito de Frango em Cubos e Abobrinha Temperada)",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804011810_42296930.jpg",
+          "name": "Arroz Cremoso com Frango e Abobrinha",
+          "price": "R$ 18,95"
+        }
+      ],
+      "name": "PRATOS EXECUTIVOS"
+    },
+    {
+      "itens": [
+        {
+          "description": "Peda\u00e7os de Abacaxi, Coco e Leite Condensado",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131402_42296933.png",
+          "name": "Abacaxi com Coco",
+          "price": "R$ 14,95"
+        },
+        {
+          "description": "Brigadeiro de Panela coberto com Chocolate Granulado",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131402_42296944.png",
+          "name": "Brigadeiro de Panela",
+          "price": "R$ 14,65"
+        },
+        {
+          "description": "Chocolate ao leite com chocolate Kit Kat\u00ae",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131352_42296956.jpg",
+          "name": "Kit Kat\u00ae",
+          "price": "R$ 15,95"
+        },
+        {
+          "description": "Puro Chocolate Branco Nestl\u00e9",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201321_38776330.png",
+          "name": "Chocolate Branco",
+          "price": "R$ 14,35"
+        },
+        {
+          "description": "Chocolate Branco Nestl\u00e9 coberto com M&M's",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201322_38776342.jpg",
+          "name": "Chocolate Branco com M&Ms",
+          "price": "R$ 15,15"
+        },
+        {
+          "description": "Chocolate Branco Nestl\u00e9 e Morangos",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201323_38776354.jpg",
+          "name": "Chocolate Branco com Morangos",
+          "price": "R$ 15,45"
+        },
+        {
+          "description": "Chocolate Branco Nestl\u00e9 coberto com Nozes",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/2b25e1e8-2ccc-4455-a195-8fb9c55009da/201711201323_38776366.jpg",
+          "name": "Chocolate Branco com Nozes",
+          "price": "R$ 15,75"
+        },
+        {
+          "description": "Puro Chocolate ao Leite Nestl\u00e9",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131353_42297021.jpg",
+          "name": "Chocolate Preto",
+          "price": "R$ 14,25"
+        },
+        {
+          "description": "Chocolate ao Leite Nestl\u00e9 coberto com M&Ms",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131354_42297032.jpg",
+          "name": "Chocolate Preto com M&Ms",
+          "price": "R$ 15,25"
+        },
+        {
+          "description": "Chocolate ao Leite Nestl\u00e9 e Morangos",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131355_42297043.png",
+          "name": "Chocolate Preto com Morangos",
+          "price": "R$ 15,35"
+        },
+        {
+          "description": "Chocolate ao Leite Nestl\u00e9 coberto com Nozes",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131355_42297054.png",
+          "name": "Chocolate Preto com Nozes",
+          "price": "R$ 15,55"
+        },
+        {
+          "description": "Chocolate ao Leite Nestl\u00e9 com um toque de Chocolate Branco Nestl\u00e9",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131356_42297065.jpg",
+          "name": "Chocolate Preto e Branco",
+          "price": "R$ 14,25"
+        },
+        {
+          "description": "Chocolate ao Leite Nestl\u00e9 com um toque de Chocolate Branco Nestl\u00e9 e coberto com M&M's",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131356_42297076.jpg",
+          "name": "Chocolate Preto e Branco com M&M's",
+          "price": "R$ 15,25"
+        },
+        {
+          "description": "Chocolate ao Leite Nestl\u00e9 com Morangos e um toque de chocolate Branco Nestl\u00e9",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131357_42297087.jpg",
+          "name": "Chocolate Preto e Branco com Morangos",
+          "price": "R$ 15,35"
+        },
+        {
+          "description": "Chocolate ao Leite Nestl\u00e9 com um toque de Chocolate Branco Nestl\u00e9 e coberto com Nozes",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131358_42297098.jpg",
+          "name": "Chocolate Preto e Branco com Nozes",
+          "price": "R$ 15,55"
+        },
+        {
+          "description": "Creme de Baunilha e Morangos",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131359_42297125.png",
+          "name": "Creme com Morangos",
+          "price": "R$ 14,25"
+        },
+        {
+          "description": "doce de leite e banana",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131359_42297136.jpg",
+          "name": "Doce de Leite com Banana",
+          "price": "R$ 13,25"
+        },
+        {
+          "description": "Doce de Leite em dobro, Morangos e cobertura de Chocolate Nestl\u00e9 (ao Leite ou Branco)",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131400_42297147.jpg",
+          "name": "Doce de Leite Duplo com Morangos e Chocolate",
+          "price": "R$ 15,65"
+        },
+        {
+          "description": "Doce de Ma\u00e7\u00e3 Caseiro com Canela",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131400_42297160.jpg",
+          "name": "Ma\u00e7\u00e3 com Canela",
+          "price": "R$ 12,85"
+        },
+        {
+          "description": "Creme de Cacau e Avel\u00e3s com Banana",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131400_42297171.jpg",
+          "name": "Nutella com Banana",
+          "price": "R$ 16,25"
+        },
+        {
+          "description": "Creme de Cacau e Avel\u00e3s com Morango",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131401_42297182.png",
+          "name": "Nutella com Morango",
+          "price": "R$ 16,75"
+        },
+        {
+          "description": "Coco e Leite Condensado coberto com Chocolate ao Leite Nestl\u00e9",
+          "image_url": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/pratos/3fe9a435-6ce4-44e0-80d3-74b8f537b39c/201804131401_42297193.jpg",
+          "name": "Prest\u00edgio com cobertura e Chocolate",
+          "price": "R$ 16,65"
+        }
+      ],
+      "name": "CROASONHOS DOCES"
+    },
+    {
+      "itens": [
+        {
+          "description": "",
+          "image_url": null,
+          "name": "Refrigerantes Lata",
+          "price": "R$ 5,70"
+        },
+        {
+          "description": "",
+          "image_url": null,
+          "name": "Sucos Del Valle Lata",
+          "price": "R$ 5,70"
+        },
+        {
+          "description": "Lim\u00e3o ou P\u00eassego",
+          "image_url": null,
+          "name": "Ch\u00e1 Gelado Le\u00e3o Ice Tea",
+          "price": "R$ 5,55"
+        },
+        {
+          "description": "500ml",
+          "image_url": null,
+          "name": "Agu\u00e1 Com ou Sem G\u00e1s",
+          "price": "R$ 4,50"
+        },
+        {
+          "description": "Lim\u00e3o",
+          "image_url": null,
+          "name": "Aquarius Fresh",
+          "price": "R$ 5,70"
+        },
+        {
+          "description": "Citrus ou Agua Tonica",
+          "image_url": null,
+          "name": "Schweppes - Citrus ou Agua Tonica",
+          "price": "R$ 5,70"
+        }
+      ],
+      "name": "BEBIDAS"
+    }
+  ],
+  "url": "https://www.ifood.com.br/delivery/salvador-ba/croasonho---salvador-shopping-caminho-das-arvores",
+  "name": "Croasonho - Salvador Shopping"
+}
